@@ -15,6 +15,12 @@ Do Not Abuse 🥺, Better Use Public Leech Groups
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
+
+## Deploy in One Click
+
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/rockstarcuba/bot-8.0-arreglado)
+
+
 ### The Eas(iest) Way
 
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
